@@ -5,3 +5,4 @@ D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Debug\SQLTableExport.Proper
 D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Debug\SQLTableExport.csproj.GenerateResource.Cache
 D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Debug\SQLTableExport.exe
 D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Debug\SQLTableExport.pdb
+D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Debug\SQLTableExport.Form1.resources
