@@ -1,8 +1,8 @@
 D:\GitHub\Projects\SQLTableExport\SQLTableExport\bin\Debug\SQLTableExport.exe
 D:\GitHub\Projects\SQLTableExport\SQLTableExport\bin\Debug\SQLTableExport.pdb
 D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Debug\SQLTableExport.csprojResolveAssemblyReference.cache
+D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Debug\SQLTableExport.Form1.resources
 D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Debug\SQLTableExport.Properties.Resources.resources
 D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Debug\SQLTableExport.csproj.GenerateResource.Cache
 D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Debug\SQLTableExport.exe
 D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Debug\SQLTableExport.pdb
-D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Debug\SQLTableExport.Form1.resources

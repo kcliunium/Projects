@@ -127,14 +127,14 @@
             this.dataGridView1.Location = new System.Drawing.Point(12, 124);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(390, 180);
+            this.dataGridView1.Size = new System.Drawing.Size(645, 257);
             this.dataGridView1.TabIndex = 11;
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(12, 310);
+            this.richTextBox1.Location = new System.Drawing.Point(12, 387);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(390, 139);
+            this.richTextBox1.Size = new System.Drawing.Size(645, 169);
             this.richTextBox1.TabIndex = 12;
             this.richTextBox1.Text = "";
             // 
@@ -152,7 +152,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(414, 461);
+            this.ClientSize = new System.Drawing.Size(669, 568);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.dataGridView1);
@@ -166,7 +166,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "SQL Table Export";
+            this.Text = "SQL Table Export      V1.0";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
