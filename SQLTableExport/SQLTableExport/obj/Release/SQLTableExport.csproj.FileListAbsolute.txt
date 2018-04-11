@@ -1,0 +1,7 @@
+D:\GitHub\Projects\SQLTableExport\SQLTableExport\bin\Release\SQLTableExport.exe
+D:\GitHub\Projects\SQLTableExport\SQLTableExport\bin\Release\SQLTableExport.pdb
+D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Release\SQLTableExport.Form1.resources
+D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Release\SQLTableExport.Properties.Resources.resources
+D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Release\SQLTableExport.csproj.GenerateResource.Cache
+D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Release\SQLTableExport.exe
+D:\GitHub\Projects\SQLTableExport\SQLTableExport\obj\Release\SQLTableExport.pdb
